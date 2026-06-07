@@ -4,7 +4,10 @@
 [نسخه فارسی](https://github.com/vfarid/v2ray-worker/blob/main/README-fa.md)
 
 ## How to use
-
+==
+这是提交测试
+冗余代码可以删掉的
+====
 To be completed...
 
 ## Deploy 
